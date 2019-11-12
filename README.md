@@ -17,4 +17,4 @@ PORT=5000
 3. Run `npm install`
 4. Run `npm run dev` (or `npm run start` for production mode)
 
-# Soon: a blog series that shows you how to build this demo from scratch
+# Soon: a blog series that shows you how to build this demo from scratch (follow me on twitter [@tahazsh](https://twitter.com/tahazsh) for updates)
